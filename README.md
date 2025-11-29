@@ -10,16 +10,20 @@ A modern **neon-themed chat UI** built with Flutter. Supports **dark mode**, **e
 ## Screenshots
 
 ### Light Mode
-![Light Mode 1](assets/white.jpg)  
-![Typing Light Mode 1](assets/white_typing.jpg)  
-![Emoji Light Mode 1](assets/white_emoji.jpg)  
-![Send Light Mode 1](assets/white_send.jpg)  
-
+<p align="center">
+  <img src="assets/white.jpg" width="250"/>
+  <img src="assets/white_typing.jpg" width="250"/>
+  <img src="assets/white_emoji.jpg" width="250"/>
+  <img src="assets/white_send.jpg" width="250"/>
+</p>
 
 ### Dark Mode
-![Dark Mode 1](assets/dark.jpg)  
-![Typing Dark Mode 1](assets/dark_typing.jpg)  
-![Send Dark Mode 1](assets/dark_neon.jpg)  
+<p align="center">
+  <img src="assets/dark.jpg" width="250"/>
+  <img src="assets/dark_typing.jpg" width="250"/>
+  <img src="assets/dark_neon.jpg" width="250"/>
+</p>
+ 
 
 ---
 
