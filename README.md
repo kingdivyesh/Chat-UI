@@ -51,7 +51,7 @@ A modern **neon-themed chat UI** built with Flutter. Supports **dark mode**, **e
 git clone https://github.com/yourusername/flutter_chat_ui.git 
 ```
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd flutter_chat_ui 
 ```
