@@ -2,7 +2,7 @@
 
 A modern **neon-themed chat UI** built with Flutter. Supports **dark mode**, **emoji input**, **typing animations**, and **neon message bubbles**.  
 
-![App Demo](assets/demo.gif)  
+![App Demo](https://github.com/user-attachments/assets/c2f7699b-afb8-456c-ae24-8c7795e371fd)
 *Animated demo of the chat app in action.*
 
 ---
