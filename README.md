@@ -12,7 +12,6 @@ A modern **neon-themed chat UI** built with Flutter. Supports **dark mode**, **e
 ### Light Mode
 <p align="center">
   <img src="assets/white.jpg" width="250"/>
-  <img src="assets/white_typing.jpg" width="250"/>
   <img src="assets/white_emoji.jpg" width="250"/>
   <img src="assets/white_send.jpg" width="250"/>
 </p>
